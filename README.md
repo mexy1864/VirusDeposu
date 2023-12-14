@@ -1,61 +1,47 @@
-# Malware Database
-### Disclaimer
-This repository is one of the few malware collections on GitHub. Almost every sample here is **malicious** so I strongly recommend you to neither open these files on real hardware, nor misuse the malware to *prank* your friends. Playing with these samples may lead to irreversible consequences which may affect **anything** from personal data to passwords and banking information.
+# VirüsDeposu
+### Sorumluluk Reddi
+Bu depoda bulunan virüslerin şakası yoktur ve son derece tehlikelidir. Bu yüzden dosyaları VirtualBox gibi sanal makine programlarıyla açmanız şiddetle tavsiye edilir. Sanal makinenize veya ana makinenize gelecek zararlardan Endermanch ve onun deposunu Türkçe diline çeviren ben sorumlu değilim.
 
-**I am not responsible for any damage caused by the malware inside my repository and your negligence in general.**
+### İçerikler
+1. [Tanıtım](#tanitim)
+2. [Katkıda Bulunanlar](#katkidabulunanlar)
+3. [S.S.S.](#s.s.s.)
 
-### Table of contents
-1. [Introduction](#introduction)
-2. [Contributors](#contributors)
-3. [About](#about)
-4. [FAQ](#faq)
+### Tanitim
+Çoğu insan virüslerin, trojanların ve bütün zararlı yazılımların tehlikeli olduğunu ve açılmaması gerektiğini söyler. Fakat aslında bunun tam tersini bilinçli olursak yapabiliriz (hatta bazen eğlenebiliriz). Mesela bu depodaki zararlı yazılım ve dosyaları VirtualBox gibi bir sanal makine programıyla açıp (açmadan önce ana makine ile internet, ortak klasör gibi bağlantılarını kesmelisiniz) güvenle test edebilirsiniz. Bu depo da, bu gibi zararlı yazılımları test etmek isteyenler için bir arşiv, bir depodur. Bu depodaki bütün zararlı yazılımlar ve dosyalar, 14 Aralık 2023 tarihinde Endermanch'in **MalwareDatabase** isimli repository'sinden alınmıştır.
+* Bu depoyu hazırlayan Endermanch'e destek olmak için kanalına [YouTube](https://malwat.ch/youtube) üzerinden abone olabilir, ya da YouTube katıl üzerinden [destek&bağışta](https://youtube.com/channel/UCWb-66XSFCV5vgKEbl22R6Q/join) bulunabilirsiniz.
 
-### Introduction
-Most of people say: "**Malware isn't a toy to play with!**", however, I don't hold such an opinion. Malware is fun, if you know how to play with it! :wink: In my opinion, people who think opposite are gloomy and tedious or just afraid of it. Nonetheless, I still **DO NOT** recommend you using malware for your personal needs and benefits. **If you want to ask any type of questions (e. g. Archive password doesn't match; Provided malware doesn't work! etc.) use the "*Issues*" tab.** Also here are the steps if you want to support me and my repository!
-* Subscribe to my [YouTube](https://malwat.ch/youtube) channel
-* [Become a member](https://youtube.com/channel/UCWb-66XSFCV5vgKEbl22R6Q/join)!
-
-**Any type of support will be highly appreciated!**
-
-### Contributors
-This is a list of people who really helped me (excluding myself):
+### KatkidaBulunanlar
+Bu deponun hazırlanmasında katkıda bulunanların listesi aşağıdaki gibidir:
+* Endermanch [[YouTube](https://youtube.com/channel/UCWb-66XSFCV5vgKEbl22R6Q/), [GitHub](https://github.com/Endermanch)]
 * Fedor22 [[YouTube](https://youtube.com/channel/UCFB6WenBFAJqV-c2kZYYu5g), [GitHub](https://github.com/Fedor22)]
 * Alin Tecsan [[YouTube](https://www.youtube.com/channel/UCfHTUGM0KxkUMBH5vD6u0-g), [GitHub](https://github.com/AlinResources)]
 * ElektroKill
 * Lima X
 * WiPet
+Yukarıdaki kişiler bu deponun orijinali olan **Endermanch/MalwareDatabase** repository'sinin hazırlanmasında katkıda bulunanlardır.
+* Mexy1864 (**Endermanch/MalwareDatabase** repository'sini Türkçe diline **mexy1864/VirusDeposu** isimli repository'i açarak çeviren, yani ben) [[GitHub](https://github.com/mexy1864)]
 
-# About
-My malware repository isn't excellent, however, I am trying my best to convince you :smile:
+### Şifre
+bu depodaki bütün dosyaların arşiv şifreleri **mysubsarethebest** şeklindedir.
 
-![About](https://malwat.ch/images/assets/malwareCollection.png)
+### Zararlı yazılım/zararlı dosya türleri ve sayıları
+Bu depodaki zararlı yazılım ve zararlı dosyaların türleri ve depoda yüzde kaç o türden olduğu aşağıdaki grafikte verilmiştir.
 
-### Password
-The password for all archives is **mysubsarethebest**!
+Dolandırıcılık, oltalama vb. => %40
+Zararsız şaka virüsleri => %35
+Trojan => %10
+Fidye Virüsü => %10
+Endermanch ve izleyicilerinin zararlı yazılım/dosyaları => %5
 
-### Percentage
-Here is a table of approximate percentage ratio of malware in my repository.
+# S.S.S. (Sık Sorulan Sorular)
+### Bu depo ve içeriği hakkında oluşabilecek bazı sorular aşağıda yanıtlanmıştır. Türkçe dilini çeviren ben veya Endermanch'e sormak yerine buradan sorununuzu çözmeye çalışabilirsiniz.
+**Soru:** Arşivi indirdim ama karşıma şifre çıktı. Şifre nedir?
+**Cevap:** Bu ReadMe dosyasının yukarı taraflarında da belirttiğimiz gibi şifre **mysubsarethebest** şeklindedir.
 
-Malware type | Percentage
------------- | -------------
-Rogue (Fraud) | 40%
-Joke | 35%
-Trojan | 10%
-Ransomware | 10%
-Self-made / Viewer-made | 5%
+**Soru:** Arşiv şifresini doğru girdiğimden eminim, fakat doğru girmeme rağmen arşiv açılmıyor.
+**Cevap:** **Endermach/MalwareDatabase** repository'sinde "Issue" bölümünden sorun kaydı oluşturun. Endermanch gerekli düzenlemeyi yapacaktır. Endermanch düzenlemeyi yaparsa bu depoda da dosyaların güncellenmesi için Türkçe diline çeviren ben ile iletişime geçebilirsiniz.
 
-# FAQ
-### Here you can find answers to frequently asked questions. This may be helpful!
-**Q:** What is the password for the archive I've downloaded?  
-**A:** It is **mysubsarethebest**... Read the description carefully!
-
-**Q:** I know I didn't misspell the password for the archive, however it STILL won't unlock. What do I do?  
-**A:** Check for the mistakes again, if it doesn't help then create an issue, I will reupload the one you're struggling with. Mistakes can happen!
-
-**Q:** I can't find the sample I need which you reviewed on your channel, why?  
-**A:** I am happy to announce the malware series are back, although I cannot guarantee the presence of every sample reviewed on my channel. Create an issue if you don't find a sample you really want, I (or my moderator) will help you shortly after. But please, please don't spam with your requests in issues. Send them to my mailbox. (mentioned in the 4th question)
-
-**Q:** Can I contribute to your malware database? If yes, how?  
-**A:** Yes, of course you can. You can send your malware **(no batch or bat2exe files, please)** to my mailbox! (realendermanch@gmail.com) Only the best of the best will be reviewed and put here.
 
 **Endermanch, 2020**
+**mexy1864, 2023**
