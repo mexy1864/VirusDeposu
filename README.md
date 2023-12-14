@@ -19,7 +19,7 @@ Bu deponun hazırlanmasında katkıda bulunanların listesi aşağıdaki gibidir
 * ElektroKill
 * Lima X
 * WiPet
-Yukarıdaki kişiler bu deponun orijinali olan **Endermanch/MalwareDatabase** repository'sinin hazırlanmasında katkıda bulunanlardır.
+  Yukarıdaki kişiler bu deponun orijinali olan **Endermanch/MalwareDatabase** repository'sinin hazırlanmasında katkıda bulunanlardır.
 * Mexy1864 (**Endermanch/MalwareDatabase** repository'sini Türkçe diline **mexy1864/VirusDeposu** isimli repository'i açarak çeviren, yani ben) [[GitHub](https://github.com/mexy1864)]
 
 ### Şifre
@@ -29,15 +29,20 @@ bu depodaki bütün dosyaların arşiv şifreleri **mysubsarethebest** şeklinde
 Bu depodaki zararlı yazılım ve zararlı dosyaların türleri ve depoda yüzde kaç o türden olduğu aşağıdaki grafikte verilmiştir.
 
 Dolandırıcılık, oltalama vb. => %40
+
 Zararsız şaka virüsleri => %35
+
 Trojan => %10
+
 Fidye Virüsü => %10
+
 Endermanch ve izleyicilerinin zararlı yazılım/dosyaları => %5
 
 # S.S.S. (Sık Sorulan Sorular)
 ### Bu depo ve içeriği hakkında oluşabilecek bazı sorular aşağıda yanıtlanmıştır. Türkçe dilini çeviren ben veya Endermanch'e sormak yerine buradan sorununuzu çözmeye çalışabilirsiniz.
 **Soru:** Arşivi indirdim ama karşıma şifre çıktı. Şifre nedir?
 **Cevap:** Bu ReadMe dosyasının yukarı taraflarında da belirttiğimiz gibi şifre **mysubsarethebest** şeklindedir.
+
 
 **Soru:** Arşiv şifresini doğru girdiğimden eminim, fakat doğru girmeme rağmen arşiv açılmıyor.
 **Cevap:** **Endermach/MalwareDatabase** repository'sinde "Issue" bölümünden sorun kaydı oluşturun. Endermanch gerekli düzenlemeyi yapacaktır. Endermanch düzenlemeyi yaparsa bu depoda da dosyaların güncellenmesi için Türkçe diline çeviren ben ile iletişime geçebilirsiniz.
