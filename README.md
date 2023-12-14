@@ -47,10 +47,12 @@ Endermanch ve izleyicilerinin zararlı yazılım/dosyaları => %5
 **Cevap:** Bu ReadMe dosyasının yukarı taraflarında da belirttiğimiz gibi şifre **mysubsarethebest** şeklindedir.
 
 
+
 **Soru:** Arşiv şifresini doğru girdiğimden eminim, fakat doğru girmeme rağmen arşiv açılmıyor.
 
 **Cevap:** **Endermach/MalwareDatabase** repository'sinde "Issue" bölümünden sorun kaydı oluşturun. Endermanch gerekli düzenlemeyi yapacaktır. Endermanch düzenlemeyi yaparsa bu depoda da dosyaların güncellenmesi için Türkçe diline çeviren ben ile iletişime geçebilirsiniz.
 
 
 **Endermanch, 2020**
+
 **mexy1864, 2023**
